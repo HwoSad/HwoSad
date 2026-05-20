@@ -12,7 +12,7 @@
   
   >Eu sou um estudante de ciência da computação.
    Meu foco atual é trabalhar com react.
-   Sou altamente didática para aprender qualquer Linguagem de programação e resolver problemas.
+   Sou altamente didático para aprender qualquer Linguagem de programação e resolver problemas.
    Se você precisa de um freelancer mande um e-mail 
 
   ##
